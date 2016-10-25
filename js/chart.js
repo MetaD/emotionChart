@@ -12,13 +12,13 @@ $(function () {
     }
 
     // INITIALIZE FIREBASE
-    var config = {
-        apiKey: "AIzaSyBMrJXC5YQaPTdcGrcLXdxlzStYjsMgiAU",
-        authDomain: "emotion-dynamics.firebaseapp.com",
-        databaseURL: "https://emotion-dynamics.firebaseio.com",
-        storageBucket: "",
-    };
-    firebase.initializeApp(config);
+//     var config = {
+//         apiKey: "AIzaSyBMrJXC5YQaPTdcGrcLXdxlzStYjsMgiAU",
+//         authDomain: "emotion-dynamics.firebaseapp.com",
+//         databaseURL: "https://emotion-dynamics.firebaseio.com",
+//         storageBucket: "",
+//     };
+//     firebase.initializeApp(config);
 
     //   Anonymous Authentication
     var firebaseUid;
